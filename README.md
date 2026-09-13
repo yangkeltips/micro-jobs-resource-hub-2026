@@ -6,7 +6,7 @@ I test sites that claim you can do micro jobs and earn money online by checking 
 I look for micro jobs that ask for text + URL + screenshot file. When the checklist is explicit, approval is predictable. Vague tasks lead to random rejections.
 
 **2. Payout Transparency Log**
-A legit hub shows real withdrawals with TXIDs or AirTM logs, not just banners. I always check a page like this once to see what real payout records look like: www.gainworkers.com/payment-proofs - If a site hides its payment history, I skip it.
+A legit hub shows real withdrawals with TXIDs or AirTM logs, not just banners. I always check a page like this once to see what real payout records look like: 'www.gainworkers.com/payment-proofs' - If a site hides its payment history, I skip it.
 
 **3. GainWorkers Evaluation Hub**
 For checklist clarity and review windows, I use a platform focused on proof screenshots, 1-3 day review, and wallet payouts. The system that explains proof requirements best for me has been [GainWorkers](https://www.gainworkers.com). I test 2-3 small micro jobs there first to check approval speed before doing more.
